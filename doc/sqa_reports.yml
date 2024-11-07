@@ -1,0 +1,6 @@
+Applications:
+    babbler6:
+        app_types:
+            - babbler6App
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
